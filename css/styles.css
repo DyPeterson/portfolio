@@ -20,3 +20,10 @@ h3 {
 .pushdown {
   margin-top: 50px;
 }
+.name {
+  font-size: larger;
+}
+h1 {
+  color: rgb(20, 20, 20);
+  text-align: center;
+}
