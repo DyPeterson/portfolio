@@ -1,10 +1,22 @@
 body {
   font-family: Optima, sans-serif;
-  background-image: linear-gradient(white,gray);
+  background-image: linear-gradient(rgb(40, 40, 40),rgb(20, 20, 20));
+  color: rgb(200, 200, 200);
 }
 .right {
   float: right;
 }
 .centertxt {
   text-align: center;
+}
+.border {
+  border: 3px solid rgb(200, 200, 200);
+  padding: 5px;
+  margin: 10px;
+}
+h3 {
+  margin: 10px;
+}
+.pushdown {
+  margin-top: 50px;
 }
