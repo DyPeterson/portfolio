@@ -4,3 +4,9 @@ body {
   margin: 25px;
   /* switching the margin on page for bootstrap container? */
 }
+.right {
+  float: right;
+}
+.centertxt {
+  text-align: center;
+}
