@@ -1,8 +1,6 @@
 body {
   font-family: Optima, sans-serif;
   background-image: linear-gradient(white,gray);
-  margin: 25px;
-  /* switching the margin on page for bootstrap container? */
 }
 .right {
   float: right;
