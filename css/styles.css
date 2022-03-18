@@ -11,7 +11,7 @@ body {
 }
 .border {
   border: 3px solid rgb(200, 200, 200);
-  padding: 5px;
+  padding: 10px;
   margin: 10px;
 }
 h3 {
@@ -22,8 +22,17 @@ h3 {
 }
 .name {
   font-size: larger;
+  letter-spacing: 3px;
+  text-shadow: 5px 5px 5px rgb(53, 53, 53);
 }
 h1 {
   color: rgb(20, 20, 20);
   text-align: center;
+  border-bottom: 8px solid black;
+}
+a:link {
+color:rgb(91, 130, 153)
+}
+a:visited {
+color:rgb(78, 110, 129)
 }
